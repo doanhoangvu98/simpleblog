@@ -170,6 +170,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   coffee-rails (~> 4.2)
+  execjs
   jbuilder (~> 2.5)
   puma (~> 3.7)
   rails (~> 5.1.7)
